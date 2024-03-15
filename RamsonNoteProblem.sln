@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamsonNoteProblem", "RamsonNoteProblem\RamsonNoteProblem.csproj", "{7693D457-50A1-4703-94A8-9832E1463D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BC2ED8FC-0363-46E9-AA1A-65EABAC30B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7693D457-50A1-4703-94A8-9832E1463D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7693D457-50A1-4703-94A8-9832E1463D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7693D457-50A1-4703-94A8-9832E1463D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7693D457-50A1-4703-94A8-9832E1463D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2ED8FC-0363-46E9-AA1A-65EABAC30B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2ED8FC-0363-46E9-AA1A-65EABAC30B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2ED8FC-0363-46E9-AA1A-65EABAC30B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2ED8FC-0363-46E9-AA1A-65EABAC30B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A183E8F-959A-4954-B3E6-2D99FECCC242}
+	EndGlobalSection
+EndGlobal
